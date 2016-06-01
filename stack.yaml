@@ -1,0 +1,4 @@
+resolver: lts-6.0
+packages:
+- pwstore-fast/
+- pwstore-purehaskell/
